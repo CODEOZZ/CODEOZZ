@@ -44,4 +44,4 @@
 
 
 
-![snake gif](https://github.com/CODEOZZ/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/CODEOZZ/CODEOZZ/blob/output/github-contribution-grid-snake.gif)
