@@ -43,5 +43,5 @@
 
 
 ## Snake
-
+![snake gif](https://github.com/CODEOZZ/CODEOZZ/blob/output/github-contribution-grid-snake.gif)
 
